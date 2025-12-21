@@ -97,11 +97,13 @@ GenAI-Cold-Email-Generator/
 
 
 ```
-
+## Vector DB - Chroma DB IMPORT with PYTHON
 <img width="1236" height="740" alt="Chromadb" src="https://github.com/user-attachments/assets/3b040b62-42d7-43a6-bbce-fad1125e94e7" />
 
+## CHAT GROQ - IMPORT with PYTHON
 <img width="1242" height="507" alt="LLM_import" src="https://github.com/user-attachments/assets/5d59705a-c9ee-4a85-bf65-15443e2abe42" />
 
+## MAIN.PY - STREAMLIT APPLICATION
 <img width="992" height="505" alt="main" src="https://github.com/user-attachments/assets/58cbb357-bd61-4d11-addf-32b08bcd79be" />
 
 ## 👤 Author
